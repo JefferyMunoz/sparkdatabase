@@ -1,12 +1,12 @@
 {
   "banners": [
     {
-      "src": "https://picx.zhimg.com/80/v2-4ec4f3de6e6f33e56821e67c3d5c7881_720w.jpeg",
-      "link": "https://t.zsxq.com/10U8UKa3M"
+      "src": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/refs/heads/main/assets/spark-community-banner.jpeg",
+      "link": "https://github.com/JefferyMunoz/sparkdatabase"
     },
     {
-      "src": "https://picx.zhimg.com/80/v2-1c2d347514961c987da0462ffffa5fb9_720w.jpeg",
-      "link": "https://rubick.vip/"
+      "src": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/refs/heads/main/assets/spark-freedom-banner.jpeg",
+      "link": "https://github.com/JefferyMunoz/sparkdatabase"
     }
   ],
   "must": [
