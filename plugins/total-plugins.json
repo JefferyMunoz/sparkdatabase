@@ -339,7 +339,7 @@
   {
     "name": "@spark/superx",
     "pluginName": "超级面板",
-    "version": "2.0.1",
+    "version": "1.0.0",
     "description": "Ctrl + W 唤起超级面板",
     "main": "index.html",
     "entry": "main.js",
