@@ -346,7 +346,7 @@
     "preload": "preload.js",
     "logo": "https://pic1.zhimg.com/80/v2-c4b9ea27fde09f7e985a5fc77d922680_720w.png",
     "pluginType": "system",
-    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/@spark_superx_md.md",
+    "homePage": "",
     "features": [
       {
         "code": "setting",
