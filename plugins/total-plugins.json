@@ -12,6 +12,7 @@
     ],
     "pluginType": "ui",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372479/codeFile/tree?key=main",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--bookmarks-search_md.md",
     "features": [
       {
         "code": "bookmarks-search",
@@ -27,7 +28,7 @@
     "pluginName": "Ctool",
     "description": "Ctool 程序开发常用工具",
     "author": "baiy",
-    "homePage": "https://gitee.com/baiy/Ctool/raw/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--Ctool_md.md",
     "main": "tool.html",
     "version": "2.3.0",
     "name": "spark-plugin-ui--Ctool",
@@ -49,7 +50,7 @@
     "logo": "https://pic1.zhimg.com/80/v2-fa7fdca30c091f589d0addd779941ead_720w.png",
     "version": "0.0.2",
     "preload": "preload.js",
-    "homePage": "https://www.srdcloud.cn/code/33660/repoView/372555/codeFile/view?key=master&directory=README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--webpage-open_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372555/codeFile/tree?key=master",
     "pluginType": "ui",
     "features": [
@@ -66,7 +67,7 @@
     "name": "spark-plugin-ui--mverything",
     "pluginName": "Mverything",
     "author": "lanyuanxiaoyao",
-    "homePage": "https://gitee.com/rubick-center/rubick-ui-plugin-mverything/raw/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--mverything_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372548/codeFile/tree?key=master",
     "description": "Mac 上的 Everything",
     "version": "0.1.6",
@@ -102,28 +103,7 @@
       }
     ]
   },
-  {
-    "name": "spark-plugin-system--superx",
-    "pluginName": "超级面板",
-    "version": "2.0.1",
-    "description": "Ctrl + W 唤起超级面板",
-    "main": "index.html",
-    "entry": "main.js",
-    "preload": "preload.js",
-    "logo": "https://pic1.zhimg.com/80/v2-c4b9ea27fde09f7e985a5fc77d922680_720w.png",
-    "pluginType": "system",
-    "homePage": "https://gitee.com/rubick-center/rubick-super-x/raw/master/readme.md",
-    "features": [
-      {
-        "code": "setting",
-        "explain": "设置超级面板",
-        "cmds": [
-          "设置超级面板",
-          "超级面板"
-        ]
-      }
-    ]
-  },
+  
   {
     "name": "spark-plugin-ui--doutu",
     "pluginName": "斗图",
@@ -133,7 +113,7 @@
     "logo": "https://static.91jkys.com/activity/img/2adb63c2e5d54dc1b26001958fcdb044.jpg",
     "version": "0.0.1",
     "preload": "preload.js",
-    "homePage": "https://gitee.com/rubick-center/rubick-doutu/raw/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--doutu_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372521/codeFile/tree?key=master",
     "pluginType": "ui",
     "features": [
@@ -181,7 +161,7 @@
     "pluginName": "系统剪贴板",
     "description": "系统剪贴板增强，合并复制、合并粘贴、文件拖拽中转",
     "author": "muwoo",
-    "homePage": "https://gitee.com/rubick-center/rubick-qjb/raw/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-system--clipboard_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372513/codeFile/tree?key=master",
     "version": "1.0.0",
     "entry": "main.js",
@@ -198,7 +178,7 @@
     "pluginName": "密码管理器",
     "description": "安全、简洁的密码管理器",
     "author": "muwoo",
-    "homePage": "https://gitee.com/rubick-center/rubick-pwd/raw/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--pwd_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372550/codeFile/tree?key=master",
     "features": [
       {
@@ -225,7 +205,7 @@
     "description": "专注计时，休息提醒，白噪音和待办清单",
     "author": "Trent0",
     "version": "1.0.0",
-    "homePage": "https://gitee.com/monkeyWang/rubick-relax/raw/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--relax_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372552/codeFile/tree?key=master",
     "logo": "https://pic1.zhimg.com/80/v2-57eb6e779539efb20c3e7ec2f1de7fe0_720w.png",
     "main": "index.html",
@@ -275,7 +255,7 @@
   },
   {
     "author": "FoundTheWOUT",
-    "homePage": "https://gitee.com/rubick-center/rubick-excalidraw/raw/main/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--excalidraw_md.md",
     "main": "web/index.html",
     "logo": "https://picx.zhimg.com/80/v2-2ab6c566dd11832b2c54b7d14ffcb895_720w.png",
     "preload": "../preload.js",
@@ -351,10 +331,32 @@
     "pluginName": "本地搜索",
     "description": "基于 Everything 更便捷的本地文件搜索 + 预览文件",
     "author": "muwoo",
-    "homepage": "https://gitee.com/rubick-center/rubick-everything/raw/main/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--everything_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372523/codeFile/tree?key=master",
     "version": "2.5.1",
     "pluginType": "ui"
+  },
+  {
+    "name": "@spark/superx",
+    "pluginName": "超级面板",
+    "version": "2.0.1",
+    "description": "Ctrl + W 唤起超级面板",
+    "main": "index.html",
+    "entry": "main.js",
+    "preload": "preload.js",
+    "logo": "https://pic1.zhimg.com/80/v2-c4b9ea27fde09f7e985a5fc77d922680_720w.png",
+    "pluginType": "system",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/@spark_superx_md.md",
+    "features": [
+      {
+        "code": "setting",
+        "explain": "设置超级面板",
+        "cmds": [
+          "设置超级面板",
+          "超级面板"
+        ]
+      }
+    ]
   },
   {
     "name": "spark-plugin-ui--ip-config-plugin",
@@ -377,7 +379,7 @@
         ]
       }
     ],
-    "homePage": "https://raw.githubusercontent.com/trifolium-wang/ip-config-plugin/master/README.md",
+    "homePage": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/main/readme/spark-plugin-ui--ip-config-plugin_md.md",
     "repo": "https://www.srdcloud.cn/code/33660/repoView/372539/codeFile/tree?key=master",
     "author": "Trifolium",
     "license": "MIT"

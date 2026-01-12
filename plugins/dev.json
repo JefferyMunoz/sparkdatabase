@@ -1,10 +1,4 @@
 [
-  "rubick-suspension",
-  "rubick-markdown",
-  "rubick-nat",
-  "rubick-ctool",
-  "rubick-hoppscotch-app",
-  "rubick-host",
-  "rubick-json-editor",
-  "rubick-oss-plugin"
+  "spark-plugin-ui--Ctool",
+  "spark-plugin-ui--ip-config-plugin"
 ]
