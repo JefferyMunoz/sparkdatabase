@@ -1,5 +1,4 @@
 [
-  "rubick-system-clipboard",
-  "rubick-system-mac-touchbar",
-  "rubick-superx"
+  "spark-plugin-system--clipboard",
+  "@spark/superx"
 ]

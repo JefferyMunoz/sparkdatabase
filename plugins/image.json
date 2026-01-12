@@ -1,9 +1,3 @@
 [
-  "rubick-record",
-  "rubick-suspension",
-  "rubick-ui-picture-bed",
-  "rubick-xunfei-ocr",
-  "rubick-doutu",
-  "rubick-qrcode",
-  "rubick-ui-plugin-wallhaven"
+  "spark-plugin-ui--doutu"
 ]
