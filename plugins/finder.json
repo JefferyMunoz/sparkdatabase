@@ -1,12 +1,12 @@
 {
   "banners": [
     {
-      "src": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/refs/heads/main/assets/spark-community-banner.jpeg",
-      "link": "https://github.com/JefferyMunoz/sparkdatabase"
+      "src": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/refs/heads/main/assets/spark-xhai-banner.jpg",
+      "link": "https://xhai.teleai.com.cn/cloud/home"
     },
     {
-      "src": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/refs/heads/main/assets/spark-freedom-banner.jpeg",
-      "link": "https://github.com/JefferyMunoz/sparkdatabase"
+      "src": "https://raw.githubusercontent.com/JefferyMunoz/sparkdatabase/refs/heads/main/assets/spark-zhiwen-banner.jpg",
+      "link": "https://xhai.teleai.com.cn/cloud/home-product/knowledgeCenter"
     }
   ],
   "must": [
