@@ -16,13 +16,13 @@
     "spark-plugin-ui--pwd"
   ],
   "recommend": [
+    "@ais/spark-ui-eaas",
     "spark-plugin-ui--excalidraw",
     "spark-plugin-ui--everything",
     "spark-plugin-ui--relax",
     "spark-plugin-ui--pwd",
     "spark-plugin-ui--webpage-open",
     "@spark/superx",
-    "@ais/spark-ui-eaas",
     "spark-plugin-ui--doutu",
     "spark-plugin-ui--bookmarks-search",
     "spark-plugin-ui--mverything"
