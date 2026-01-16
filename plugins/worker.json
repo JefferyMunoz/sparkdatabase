@@ -1,5 +1,6 @@
 [
   "spark-plugin-ui--excalidraw",
   "spark-plugin-ui--relax",
-  "spark-plugin-ui--pwd"
+  "spark-plugin-ui--pwd",
+  "@ais/spark-ui-eaas"
 ]
